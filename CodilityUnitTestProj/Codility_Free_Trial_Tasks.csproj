@@ -48,6 +48,10 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomInvitationTest\Task1.cs" />
+    <Compile Include="CustomInvitationTest\Task4.cs" />
+    <Compile Include="CustomInvitationTest\Task3.cs" />
+    <Compile Include="CustomInvitationTest\Task2.cs" />
     <Compile Include="FrogJumper\Codility_Frog_Jumps.cs" />
     <Compile Include="CountMultiplicativePairs\CountMultiplicativePairs.cs" />
     <Compile Include="DeepeestPit\Deepest_Pit.cs" />
