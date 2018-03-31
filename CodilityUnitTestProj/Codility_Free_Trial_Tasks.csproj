@@ -48,13 +48,13 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Codility_Frog_Jumps.cs" />
-    <Compile Include="CountMultiplicativePairs.cs" />
-    <Compile Include="Deepest_Pit.cs" />
-    <Compile Include="Min_Abs_Slice_Sum.cs" />
-    <Compile Include="MissingElement_N.cs" />
+    <Compile Include="FrogJumper\Codility_Frog_Jumps.cs" />
+    <Compile Include="CountMultiplicativePairs\CountMultiplicativePairs.cs" />
+    <Compile Include="DeepeestPit\Deepest_Pit.cs" />
+    <Compile Include="MinAbsSliceSum\Min_Abs_Slice_Sum.cs" />
+    <Compile Include="MissingElement\Missing_Element_N.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Solution.cs" />
+    <Compile Include="MissingElement\MissingElementSolution.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -20,7 +20,6 @@ C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft
 C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\obj\Debug\Codility_Free_Trial_Tasks.csprojResolveAssemblyReference.cache
 C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\obj\Debug\Codility_Free_Trial_Tasks.csproj.CoreCompileInputs.cache
 C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\obj\Debug\Codility_Free_Trial_Tasks.dll
 C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\obj\Debug\Codility_Free_Trial_Tasks.pdb

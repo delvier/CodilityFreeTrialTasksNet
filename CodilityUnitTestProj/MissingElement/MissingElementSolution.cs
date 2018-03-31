@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Colidity_Free_Trial_Tasks
+namespace Codility_Free_Trial_Tasks.MissingElement
 {
     public class MissingElementSolution
     {

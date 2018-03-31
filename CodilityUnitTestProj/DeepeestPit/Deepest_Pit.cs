@@ -52,7 +52,7 @@
 //N is an integer within the range[1..1, 000, 000];
 //each element of array A is an integer within the range[−100, 000, 000..100, 000, 000].
 
-namespace Codility_Free_Trial_Tasks
+namespace Codility_Free_Trial_Tasks.DeepeestPit
 {
     public class Deepest_Pit
     {
