@@ -11,3 +11,16 @@ C:\Users\pljanot\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\Codili
 C:\Users\pljanot\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\Codility_Free_Trial_Tasks.csproj.CoreCompileInputs.cache
 C:\Users\pljanot\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\pljanot\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Codility_Free_Trial_Tasks.dll
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Codility_Free_Trial_Tasks.pdb
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\obj\Debug\Codility_Free_Trial_Tasks.csprojResolveAssemblyReference.cache
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\obj\Debug\Codility_Free_Trial_Tasks.csproj.CoreCompileInputs.cache
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\obj\Debug\Codility_Free_Trial_Tasks.dll
+C:\1.Projects\CodilityFreeTrialTasksNet\CodilityUnitTestProj\obj\Debug\Codility_Free_Trial_Tasks.pdb

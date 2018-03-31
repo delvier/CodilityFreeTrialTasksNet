@@ -55,9 +55,9 @@
 //each element of array B is an integer within the range[0..999, 999];
 //real numbers created from arrays are sorted in non-decreasing order.
 
-    namespace Colidity_Free_Trial_Tasks
+    namespace Codility_Free_Trial_Tasks.CountMultiplicativePairs
 {
-    class CountMultiplicativePairs
+    public class CountMultiplicativePairs
     {
     }
 }

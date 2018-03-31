@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility_Free_Trial_Tasks", "UnitTestProject1\Codility_Free_Trial_Tasks.csproj", "{46D4C5ED-28F0-4055-BD6F-D7E08A05AB99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility_Free_Trial_Tasks", "CodilityUnitTestProj\Codility_Free_Trial_Tasks.csproj", "{46D4C5ED-28F0-4055-BD6F-D7E08A05AB99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

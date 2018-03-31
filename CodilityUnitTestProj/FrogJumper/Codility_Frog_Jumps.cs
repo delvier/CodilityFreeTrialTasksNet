@@ -27,9 +27,9 @@
 //expected worst-case time complexity is O(1);
 //expected worst-case space complexity is O(1).
 
-namespace Colidity_Free_Trial_Tasks
+namespace Codility_Free_Trial_Tasks
 {
-    class Codility_Frog_Jumps
+    public class Codility_Frog_Jumps
     {
     }
 }
