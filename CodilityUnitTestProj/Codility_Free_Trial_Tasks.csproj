@@ -53,6 +53,7 @@
     <Compile Include="DeepeestPit\Deepest_Pit.cs" />
     <Compile Include="MinAbsSliceSum\Min_Abs_Slice_Sum.cs" />
     <Compile Include="MissingElement\Missing_Element_N.cs" />
+    <Compile Include="Nicole2018\Nicole2018.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MissingElement\MissingElementSolution.cs" />
   </ItemGroup>
